@@ -1,0 +1,53 @@
+{
+    "categories": [
+      {
+        "id": "cat1",
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          { "id": "w1", "name": "Widget A1", "text": "Text for Widget A1" },
+          { "id": "w2", "name": "Widget A2", "text": "Text for Widget A2" }
+        ]
+      },
+      {
+        "id": "cat2",
+        "name": "Security Overview",
+        "widgets": [
+          { "id": "w3", "name": "Widget B1", "text": "Text for Widget B1" },
+          { "id": "w4", "name": "Widget B2", "text": "Text for Widget B2" }
+        ]
+      },
+      {
+        "id": "cat3",
+        "name": "Compliance Metrics",
+        "widgets": [
+          { "id": "w5", "name": "Widget C1", "text": "Text for Widget C1" },
+          { "id": "w6", "name": "Widget C2", "text": "Text for Widget C2" }
+        ]
+      },
+      {
+        "id": "cat4",
+        "name": "Network Health",
+        "widgets": [
+          { "id": "w7", "name": "Widget D1", "text": "Text for Widget D1" },
+          { "id": "w8", "name": "Widget D2", "text": "Text for Widget D2" }
+        ]
+      },
+      {
+        "id": "cat5",
+        "name": "Risk Management",
+        "widgets": [
+          { "id": "w9", "name": "Widget E1", "text": "Text for Widget E1" },
+          { "id": "w10", "name": "Widget E2", "text": "Text for Widget E2" }
+        ]
+      },
+      {
+        "id": "cat6",
+        "name": "Incident Response",
+        "widgets": [
+          { "id": "w11", "name": "Widget F1", "text": "Text for Widget F1" },
+          { "id": "w12", "name": "Widget F2", "text": "Text for Widget F2" }
+        ]
+      }
+    ]
+  }
+  
